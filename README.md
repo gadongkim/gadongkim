@@ -24,6 +24,7 @@ __🔭 I’m currently belong to ...__
 <a href="https://www.instagram.com/dokgodai.kr"><img src="https://img.shields.io/badge/dokgodai.kr-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dokgodai.kr"/></a>
 
 __🌱 My skills are ...__
+
 💫 Programming
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
