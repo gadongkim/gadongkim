@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 -->
 
 __🔭 I’m currently belong to ...__ 
-<br/>
+
 <a href="https://www.instagram.com/hejhellohalloannyeong"><img src="https://img.shields.io/badge/hejhellohalloannyeong-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hejhellohalloannyeong"/></a>
 <a href="https://www.instagram.com/dokgodai.kr"><img src="https://img.shields.io/badge/dokgodai.kr-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dokgodai.kr"/></a>
 
 __🌱 My skills are ...__
 - Programming
-<br/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> 
@@ -36,7 +36,7 @@ __🌱 My skills are ...__
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></a> 
 
 - UX Design & Research
-<br/>
+
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a> 
@@ -44,7 +44,7 @@ __🌱 My skills are ...__
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> 
 
 - etc
-<br/>
+
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=Rhinoceros&logoColor=white"/></a> 
