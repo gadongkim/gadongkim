@@ -29,7 +29,7 @@ __🔭 I’m currently belong to ...__
 
 <br/>
 
-__🌱 My skills are ...__
+__🛠 My skills are ...__
 
 _Programming_
 
