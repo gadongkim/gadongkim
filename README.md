@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 <br/>
+
 __🔭 I’m currently belong to ...__ 
 
 <a href="https://www.instagram.com/hejhellohalloannyeong"><img src="https://img.shields.io/badge/hejhellohalloannyeong-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hejhellohalloannyeong"/></a>
@@ -27,6 +28,7 @@ __🔭 I’m currently belong to ...__
 
 
 <br/>
+
 __🌱 My skills are ...__
 
 💫 Programming
