@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="mailto:gahyun.dawn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gahyun.dawn@gmail.com"/></a>
-<a href="https://www.instagram.com/hejhellohalloannyeong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hejhellohalloannyeong"/></a>
-<a href="https://www.instagram.com/dokgodai.kr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dokgodai.kr"/></a>
+<a href="mailto:gahyun.dawn@gmail.com"><img src="https://img.shields.io/badge/gahyun.dawn@gmail.com-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gahyun.dawn@gmail.com"/></a>
+<a href="https://plump-aletopelta-c28.notion.site/Gahyun-Kim-44a022451c2c4d0c92e076a385b699f2"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://plump-aletopelta-c28.notion.site/Gahyun-Kim-44a022451c2c4d0c92e076a385b699f2"/></a>
+
+<a href="https://www.instagram.com/hejhellohalloannyeong"><img src="https://img.shields.io/badge/hejhellohalloannyeong-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hejhellohalloannyeong"/></a>
+<a href="https://www.instagram.com/dokgodai.kr"><img src="https://img.shields.io/badge/dokgodai.kr-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dokgodai.kr"/></a>
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  
