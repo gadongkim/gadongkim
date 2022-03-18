@@ -57,8 +57,9 @@ _etc_
 <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=Processing Foundation&logoColor=white"/></a> 
 
 
-
+<!-- 
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadongkim&count_private=true&show_icons=true&hide=stars&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadongkim&layout=compact)
+ -->
