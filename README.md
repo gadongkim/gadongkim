@@ -1,8 +1,8 @@
 
 <a href="mailto:gahyun.dawn@gmail.com"><img src="https://img.shields.io/badge/gahyun.dawn@gmail.com-F2F2F2?style=flat-square&logo=Gmail&logoColor=Red&link=mailto:gahyun.dawn@gmail.com"/></a>
-<a href="https://plump-aletopelta-c28.notion.site/Gahyun-Kim-44a022451c2c4d0c92e076a385b699f2"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://plump-aletopelta-c28.notion.site/Gahyun-Kim-44a022451c2c4d0c92e076a385b699f2"/></a>
+<!-- <a href="https://plump-aletopelta-c28.notion.site/Gahyun-Kim-44a022451c2c4d0c92e076a385b699f2"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://plump-aletopelta-c28.notion.site/Gahyun-Kim-44a022451c2c4d0c92e076a385b699f2"/></a>
 
-
+ -->
 <!--
 **gadongkim/gadongkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-__🔭 I’m currently belong to ...__ 
+<!-- __🔭 I’m currently belong to ...__  -->
 
 <a href="https://www.instagram.com/hejhellohalloannyeong"><img src="https://img.shields.io/badge/hejhellohalloannyeong-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hejhellohalloannyeong"/></a>
 <a href="https://www.instagram.com/dokgodai.kr"><img src="https://img.shields.io/badge/dokgodai.kr-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dokgodai.kr"/></a>
