@@ -1,5 +1,5 @@
 
-<a href="https://drive.google.com/file/d/1YRfmDDxKVTCwxfqLt-jmBvVc-VFmB-Lo/view"><img src="https://img.shields.io/badge/.-CV-9cf"/></a>
+<a href="https://drive.google.com/file/d/1YRfmDDxKVTCwxfqLt-jmBvVc-VFmB-Lo/view"><img src="https://img.shields.io/badge/CV-9cf"/></a>
 <br/>
 <a href="mailto:gahyun.dawn@gmail.com"><img src="https://img.shields.io/badge/gahyun.dawn@gmail.com-F2F2F2?style=flat-square&logo=Gmail&logoColor=Red&link=mailto:gahyun.dawn@gmail.com"/></a>
 <!-- <a href="https://plump-aletopelta-c28.notion.site/Gahyun-Kim-44a022451c2c4d0c92e076a385b699f2"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://plump-aletopelta-c28.notion.site/Gahyun-Kim-44a022451c2c4d0c92e076a385b699f2"/></a>
